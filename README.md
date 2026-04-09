@@ -78,9 +78,9 @@ Currently, I am pursuing my Bachelor's degree in Artificial Intelligence at PAF-
 
 ### 📊 GitHub Stats
 
-![Khizar's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Khizar&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=1Khizar&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Khizar&layout=compact&theme=radical&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=1Khizar&theme=radical&no-frame=true&row=1&margin-w=15)
 
 ---
 
