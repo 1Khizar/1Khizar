@@ -59,47 +59,57 @@ I engineer robust solutions that bridge the gap between static LLMs and action-d
 
 ### 💼 Work Experience
 
-- 🏢 **AI Intern @ Revnix** *(Current)*
-  Developed AI applications using LangChain & LangGraph. Implementing MLOps practices and Docker containerization for AI applications. Built production-ready AI solutions with FastAPI integration.
-- 💻 **Python Development Intern @ ProSensia** *(Jun 2025 – Aug 2025)*
-  Worked on developing and enhancing Python-based applications and backend systems. Gained practical experience in problem-solving and delivering functional software solutions.
-- 🤖 **Machine Learning Intern @ NextGenLearners** *(Jul 2025)*
-  Built, trained, and evaluated ML models for practical use cases. Created a Career Guidance Chatbot using ML, NLP, and Streamlit.
-- ⚙️ **Python Intern @ Technik Nest Pvt Ltd** *(Jun 2025 – Jul 2025)*
-  Worked on Python-based applications and solutions. Enhanced programming skills and best practices.
-- 🐍 **Python Developer @ TechnoHacks** *(Mar 2025 – Apr 2025)*
-  Developed Quiz applications using Python, Flask, and SQL. Gained hands-on experience in backend development.
-- 🌐 **Web Development Intern @ RankingGrow** *(Jul 2024 – Sep 2024)*
-  Developed frontend applications using HTML, CSS, and JavaScript. Gained hands-on experience in web development.
-- 🎓 **Education:** *B.S. Artificial Intelligence @ PAF-IAST (2024-2028 | CGPA: 3.69)*
+**🏢 AI Intern | Revnix**  
+*Current*  
+- Developed AI applications using LangChain & LangGraph. 
+- Implementing MLOps practices and Docker containerization for AI applications. 
+- Built production-ready AI solutions with FastAPI integration.
+
+<br />
+
+**💻 Python Development Intern | ProSensia**  
+*Jun 2025 – Aug 2025*  
+- Worked on developing and enhancing Python-based applications and backend systems. 
+- Gained practical experience in problem-solving and delivering functional software solutions.
+
+<br />
+
+**🤖 Machine Learning Intern | NextGenLearners**  
+*Jul 2025*  
+- Built, trained, and evaluated ML models for practical use cases. 
+- Created a Career Guidance Chatbot using ML, NLP, and Streamlit.
+
+<br />
+
+**⚙️ Python Intern | Technik Nest Pvt Ltd**  
+*Jun 2025 – Jul 2025*  
+- Worked on Python-based applications and solutions. 
+- Enhanced programming skills and best practices.
+
+<br />
+
+**🐍 Python Developer | TechnoHacks**  
+*Mar 2025 – Apr 2025*  
+- Developed Quiz applications using Python, Flask, and SQL. 
+- Gained hands-on experience in backend development.
+
+<br />
+
+**🌐 Web Development Intern | RankingGrow**  
+*Jul 2024 – Sep 2024*  
+- Developed frontend applications using HTML, CSS, and JavaScript. 
+- Gained hands-on experience in web development.
+
+---
+
+### 🎓 Education
+
+**B.S. Artificial Intelligence**  
+*Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology (2024-2028)*  
+- Current CGPA: **3.69**
 
 ---
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=1Khizar&theme=radical&hide_border=true&border_radius=10" alt="GitHub StreakStats"/>
 </div>
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=1Khizar&theme=radical&hide_border=true)
-
----
-
-### 💬 Let's Connect
-
-I am open to freelance projects, AI engineer roles, and exciting collaborations. 
-
-<p align="left">
-  <a href="mailto:khizarishtiaq69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/khizar-ishtiaq-">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <!-- Replace the '#' in the href above with your hosted portfolio link! -->
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
