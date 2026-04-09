@@ -17,27 +17,53 @@ Currently, I am pursuing my Bachelor's degree in Artificial Intelligence at PAF-
 
 ---
 
-### 💼 Experience & Background
+### 💼 Work Experience
 
-- **AI Engineer @ Revnix** (Present) – Building production AI agents, RAG systems, and automation pipelines for enterprise clients.
-- **Python Backend & ML Internships** – Gained deep technical experience developing backend logic, data pipelines, and implementing ML models across companies like *ProSensia*, *NextGenLearners*, and *Technik Nest Pvt Ltd*.
-- **Education:** B.S. Artificial Intelligence @ Pak-Austria Fachhochschule (PAF-IAST) | CGPA: 3.69
+- 🏢 **AI Engineer @ Revnix** *(Oct 2025 – Present)*
+  Building production AI agents, RAG systems, and automation pipelines for enterprise clients. *(Tech: AI Agents, LangGraph, LangChain, FastAPI, RAG)*
+
+- 💻 **Python Developer Intern @ ProSensia** *(Jun 2025 – Aug 2025)*
+  Remote internship focusing on scalable backend systems and seamless AI integrations. *(Tech: Python, Backend Development)*
+
+- 🤖 **Machine Learning Intern @ NextGenLearners** *(Jul 2025)*
+  Focused on building, training, and thoroughly evaluating core machine learning models. *(Tech: ML, Python, Matplotlib)*
+
+- ⚙️ **Python Intern @ Technik Nest Pvt Ltd** *(Jun 2025 – Jul 2025)*
+  Remote internship developing robust automation scripts and backend development projects. *(Tech: Python, Automation, Backend)*
+
+- 🎓 **Python Developer Intern @ TechnoHacks EduTech Official** *(Mar 2025 – Apr 2025)*
+  Web application development internship concentrated on Python and the Flask framework. *(Tech: Python, Flask, Web Development)*
 
 ---
 
 ### 💻 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
+**Agentic AI & Orchestration:**
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-212121?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+**Machine Learning & Models:**
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-F1A300?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLM-F54A21?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
+
+**MLOps & CI/CD:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge)
+
+**Databases & Vector Stores:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-3F25A0?style=for-the-badge&logoColor=white)
+
+**Backend Development:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -67,7 +93,7 @@ I am open to freelance projects, AI engineer roles, and exciting collaborations.
   <a href="mailto:khizarishtiaq69@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/khizar-ishtiaq">
+  <a href="https://www.linkedin.com/in/khizar-ishtiaq-">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="#">
