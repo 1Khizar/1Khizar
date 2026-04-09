@@ -2,7 +2,7 @@
 
 ### 🤖 AI Engineer | LangChain & LangGraph Expert | Voice AI Specialist
 
-I'm an AI Engineer currently building intelligent agents and RAG systems at **Revnix**. I specialize in creating robust solutions that automate workflows, bridging the gap between static LLMs and action-driven pipelines. 
+I'm an AI Engineer with deep experience building intelligent agents, dynamic RAG systems, and conversational chatbots. I specialize in creating robust solutions that automate workflows, bridging the gap between static LLMs and action-driven pipelines.
 
 Currently, I am pursuing my Bachelor's degree in Artificial Intelligence at PAF-IAST (CGPA: 3.69) and I am actively exploring new ways to combine AI with real-world, enterprise applications.
 
@@ -79,8 +79,6 @@ Currently, I am pursuing my Bachelor's degree in Artificial Intelligence at PAF-
 ### 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=1Khizar&theme=radical&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=1Khizar&theme=radical&no-frame=true&row=1&margin-w=15)
 
 ---
 
