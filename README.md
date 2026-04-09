@@ -18,23 +18,20 @@ I engineer robust solutions that bridge the gap between static LLMs and action-d
 
 ### 💻 Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-212121?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-F1A300?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq_LLM-F54A21?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-3F25A0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-</div>
+**🤖 Agentic AI & Orchestration**  
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-212121?style=for-the-badge&logo=codeigniter&logoColor=white) ![Agentic_AI](https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge&logoColor=white) ![RAG_Systems](https://img.shields.io/badge/RAG_Systems-06B6D4?style=for-the-badge&logoColor=white) ![Prompt_Engineering](https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=for-the-badge&logoColor=white)
+
+**🧠 Machine Learning & Models**  
+![Machine_Learning](https://img.shields.io/badge/Machine_Learning-10B981?style=for-the-badge&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-F1A300?style=for-the-badge&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white) ![Groq_LLM](https://img.shields.io/badge/Groq_LLM-F54A21?style=for-the-badge&logoColor=white)
+
+**🐳 MLOps & Infrastructure**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-A8B9CC?style=for-the-badge&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge) ![Git/GitHub](https://img.shields.io/badge/Git%20&%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**⚡ Backend Development**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) ![Web_Tech](https://img.shields.io/badge/HTML/CSS/JS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**🗄️ Databases & Vector Storage**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-3F25A0?style=for-the-badge&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white)
 
 ---
 
