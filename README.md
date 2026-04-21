@@ -106,7 +106,3 @@ I engineer robust solutions that bridge the gap between static LLMs and action-d
 - Current CGPA: **3.69**
 
 ---
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=1Khizar&theme=radical&hide_border=true&border_radius=10" alt="GitHub StreakStats"/>
-</div>
